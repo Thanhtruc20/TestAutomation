@@ -1,0 +1,6 @@
+ .DS_Store
+        cypress.config.js
+        cypress/
+        node_modules/
+        package-lock.json
+        package.json
